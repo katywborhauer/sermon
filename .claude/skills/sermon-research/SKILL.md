@@ -41,6 +41,8 @@ This section covers:
 
 Length: 2-3 paragraphs. Enough to orient you, not enough to overwhelm you.
 
+Stay within the Wesleyan lens as you provide this context. No research from a Reformed/Calvinist perspective. 
+
 ---
 
 ### Step 2: Historical and Cultural Background
@@ -55,6 +57,9 @@ This section covers:
 - **What modern readers miss.** I will flag two or three specific details that a contemporary reader would read past but that the original audience would have caught immediately.
 
 Length: 2-3 paragraphs. Dense and specific, not a general history lesson.
+
+Stay within the Wesleyan lens as you provide this background. No research from a Reformed/Calvinist perspective. 
+
 
 ---
 
@@ -73,6 +78,8 @@ For each word, I will provide:
 | Translation comparison | How NIV, ESV, KJV, NLT, and NASB handle it differently |
 
 The point is not to make you look smart for knowing Greek. The point is to hand you the tools to make a better interpretive decision and explain it clearly to your congregation without a seminary lecture.
+
+Stay within the Wesleyan lens as you do this study. No research from a Reformed/Calvinist perspective. 
 
 ---
 
