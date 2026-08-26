@@ -26,20 +26,18 @@ Before we start, I need a few details about your church. You only need to do thi
 | `LOCATION` | City and state | (required) |
 | `BIBLE_TRANSLATION` | Preferred Bible translation | NIV |
 
-### Quick-Fill Example
-
-Here is what filled-in values look like:
+### Current Values
 
 ```
-CHURCH_NAME: Grace Community Church
-PASTOR_NAME: Pastor Mike
-DENOMINATION: Southern Baptist
-ATTENDANCE: 175
-LOCATION: Tulsa, Oklahoma
-BIBLE_TRANSLATION: ESV
+CHURCH_NAME: Church of the Messiah
+PASTOR_NAME: Katy Wheat Borhauer
+DENOMINATION: United Methodist
+ATTENDANCE: 450
+LOCATION: Westerville, Ohio
+BIBLE_TRANSLATION: NRSV
 ```
 
-Once these are set, every skill will reference your church by name, quote scripture in your preferred translation, and tailor recommendations to a church your size in your area.
+These are set. Every skill will reference Church of the Messiah by name, quote scripture in the NRSV, and tailor recommendations to a United Methodist congregation of about 450 in Westerville, Ohio.
 
 ---
 
