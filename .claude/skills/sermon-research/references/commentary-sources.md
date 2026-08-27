@@ -15,6 +15,8 @@ These series are written primarily for scholars, seminary students, and pastors 
 | New International Commentary on the Old Testament (NICOT) | Eerdmans | Same series as NICNT, covering the Old Testament. Reliable scholarship with pastoral awareness. Strong on historical context. | Paid. Print and Logos. |
 | Baker Exegetical Commentary on the New Testament (BECNT) | Baker Academic | Technical commentary series with detailed grammatical analysis. Uses transliterated Greek throughout, making it accessible to pastors with limited Greek training. | Paid. Print and Logos. |
 | Pillar New Testament Commentary | Eerdmans | Aimed at ministers and serious students. Academically rigorous but written with preaching in mind. Contributors include D.A. Carson and Andreas Kostenberger. | Paid. Print and Logos. |
+| New Interpreter's Bible Commentary, 10 Volume Set | Abingdon | Aimed at ministers and serious students. Academically rigorous but written with preaching in mind. | Paid. Print and Logos. |
+| Feasting on the Word Lectionary Bible Commentary | Westminster John Knox | Aimed at ministers. Academically rigorous, with Exegetical, Theological, Homeletical, and Pastoral contexts in mind. | Paid. Print and Logos. |
 
 ---
 
@@ -53,6 +55,8 @@ These are platforms and tools that aggregate multiple commentaries or provide or
 | Bible Hub | biblehub.com | Free interlinear Bible, original language concordances, parallel translations, and brief commentary excerpts. Strong for comparing translations side-by-side quickly. | Free |
 | Logos Bible Software | logos.com | The most comprehensive digital Bible study platform. Aggregates hundreds of commentaries, lexicons, and reference works with cross-linking. Significant investment but the standard tool for serious study. | Paid. Starter packages begin around $200. |
 | Accordance Bible Software | accordancebible.com | Strong alternative to Logos. Better performance on Mac. Deep original language tools and a large library. Common in academic and seminary settings. | Paid. |
+| The Bible Project | bibleproject.com | Creates resources that help people experience the Bible. Extensive offerings in biblical themes, word studies. | Free. |
+| The Gospel Coalition Commentaries | thegospelcoalition.org/commentary/ | In-depth, accessible commentaries for most books of the Bible | Free. |
 
 ---
 
