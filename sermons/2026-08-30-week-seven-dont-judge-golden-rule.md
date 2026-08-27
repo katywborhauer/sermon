@@ -32,5 +32,26 @@ Jesus isn't telling us to stop discerning — he's telling us to stop *condemnin
 - Full manuscript
 - Children's message moment
 
+## Sermon Brainstorm Brief (Aug 27, 2026)
+
+*From a sermon-brainstorm session, refining the big idea above.*
+
+**Big Idea:** Right judgment isn't found in reacting instantly, whether toward condemnation or toward silence, but in the Holy Pause where we ask God's Spirit to help us see clearly before we respond.
+
+**Key Tension:** This congregation's fear of being judgmental has taught them that love looks like silence, but silence doesn't actually stop condemnation. It just moves it inward, into a private verdict Jesus still calls them to examine. At Church of the Messiah the pull is much more toward "look at your own speck and don't look at anyone's log" than the reverse, at least out loud. Condemnation still happens, just quietly, in the head.
+
+**Audience Need:** People are carrying quiet, unspoken judgments; more speck-avoidance than log-blindness, at least out loud. They know they're not supposed to judge, so they've learned to say nothing, while the condemnation still happens in their head.
+
+**Desired Response — "The Holy Pause":** Stop. Take a breath. Say a prayer asking for help to see rightly. Wait even longer. Then perhaps react. In the moment of a gut reaction to either fully condemn or go completely silent, ask: *how would I want to be treated?*
+
+**The Turn:** From "here is the danger of judging" to "here is a Father who gives wisdom generously to those who ask." Right discernment isn't willpower or self-censorship; it grows over time as the fruit of actually asking the Spirit for it (ask, seek, knock).
+
+**Supporting Passages:**
+- Luke 11:9-13 — ask and the Father gives the Holy Spirit
+- Romans 2:1-4 — the one who judges is storing up the same judgment
+- James 4:11-12 — there is one lawgiver and judge
+
+**Illustration seed:** The beat of silence between reading a message that stings and typing the reply — that gap is where the Holy Pause actually happens, or doesn't.
+
 ---
 *Ported from Notion: [Week Seven | Aug 30 | Don't Judge / The Golden Rule (Matthew 7:1-12)](https://app.notion.com/p/3c84b644210281c89d4fc9b05c9d7086)*
