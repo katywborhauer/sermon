@@ -57,6 +57,7 @@ These are platforms and tools that aggregate multiple commentaries or provide or
 | Accordance Bible Software | accordancebible.com | Strong alternative to Logos. Better performance on Mac. Deep original language tools and a large library. Common in academic and seminary settings. | Paid. |
 | The Bible Project | bibleproject.com | Creates resources that help people experience the Bible. Extensive offerings in biblical themes, word studies. | Free. |
 | The Gospel Coalition Commentaries | thegospelcoalition.org/commentary/ | In-depth, accessible commentaries for most books of the Bible | Free. |
+| Working Preacher | www.workingpreacher.org/bible-index | Lectionary-based research that's academic and working pastor-focused. | Free. |
 
 ---
 
