@@ -26,9 +26,20 @@ Jesus isn't telling us to stop discerning — he's telling us to stop *condemnin
 - The plank-and-speck bit as a built-in visual gag — a giant foam pool noodle or wrapping-paper tube as the "plank," someone squinting to remove an eyelash from a friend's eye while wearing it. Kids will howl, and it does the theological work for you.
 - A simple, honest "ask, seek, knock" demo with a locked box and a hidden key — a kid has to actually ask an adult for help finding it rather than guessing forever. Concrete, participatory, ties straight to prayer.
 
+## Opening Illustration Draft (Aug 27, 2026)
+
+*Draft — Katy to personalize wording, kid names, and word choice in her own document.*
+
+I love watching other people drive. Not admiringly. Whether I'm in the passenger seat or behind the wheel, I narrate everyone else's mistakes: the guy who cuts across three lanes with no signal, the person riding my bumper, the rubbernecker slowing down traffic to look at someone else's accident. And there's a word that comes out of me, quiet, almost involuntary: "idiot." Not loud. Not to them. Just under my breath, where I figure no one hears it.
+
+Except someone always hears it. From the back seat, one of my kids will say, "Mom, you're not being very safe either." And they're right. I've been so busy diagnosing everyone else's driving that I missed I was doing some version of the same thing: following too close, checking my phone at a light, cutting a lane change closer than I should.
+
+Here's what actually gets me, though: I wasn't wrong about the other driver. That was a bad lane change. My discernment wasn't the problem. The problem was thinking the speck I saw in them told me something about me, when it was actually just proof I hadn't checked my own mirrors in a while.
+
+*Open question: land it with a line connecting to the Holy Pause, e.g. "the pause I skip in the car is the same pause I skip everywhere else."*
+
 ## Still to develop
 
-- Opening illustration
 - Full manuscript
 - Children's message moment
 
