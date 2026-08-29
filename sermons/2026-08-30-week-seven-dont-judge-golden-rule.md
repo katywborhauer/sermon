@@ -26,17 +26,49 @@ Jesus isn't telling us to stop discerning — he's telling us to stop *condemnin
 - The plank-and-speck bit as a built-in visual gag — a giant foam pool noodle or wrapping-paper tube as the "plank," someone squinting to remove an eyelash from a friend's eye while wearing it. Kids will howl, and it does the theological work for you.
 - A simple, honest "ask, seek, knock" demo with a locked box and a hidden key — a kid has to actually ask an adult for help finding it rather than guessing forever. Concrete, participatory, ties straight to prayer.
 
-## Opening Illustration Draft (Aug 27, 2026)
+## Opening Illustration (Aug 28, 2026)
 
-*Draft — Katy to personalize wording, kid names, and word choice in her own document.*
+Whenever we're together in the car, my mom tells me the same story ...
 
-I love watching other people drive. Not admiringly. Whether I'm in the passenger seat or behind the wheel, I narrate everyone else's mistakes: the guy who cuts across three lanes with no signal, the person riding my bumper, the rubbernecker slowing down traffic to look at someone else's accident. And there's a word that comes out of me, quiet, almost involuntary: "idiot." Not loud. Not to them. Just under my breath, where I figure no one hears it.
+- I was about 20 months old and we were stuck in Austin, TX traffic.
+- A driver on the road ahead of us was doing something unsafe, and car horns started honking all around us.
+- My mom opened her mouth to make a comment, but before she could say a word,
+  - Out of my mouth from the back seat came a pronouncement: "Idiot!"
 
-Except someone always hears it. From the back seat, one of my kids will say, "Mom, you're not being very safe either." And they're right. I've been so busy diagnosing everyone else's driving that I missed I was doing some version of the same thing: following too close, checking my phone at a light, cutting a lane change closer than I should.
+It's entertaining to watch other people's bad driving, isn't it?
 
-Here's what actually gets me, though: I wasn't wrong about the other driver. That was a bad lane change. My discernment wasn't the problem. The problem was thinking the speck I saw in them told me something about me, when it was actually just proof I hadn't checked my own mirrors in a while.
+- I've been driving for 25 years, and have become excellent at spotting other people's mistakes behind the wheel.
+  - "Look at that guy, cutting across three lanes of traffic, no signal, 15 miles over the speed limit."
+  - "Look at this lady! So focused on her phone that she can't see she's riding my bumper."
+  - "Look at those people looking at the accident on 71. They're slowing down traffic with their rubbernecking."
+- A time or two, if I'm honest, that word I used when I was less than two escapes my mouth.
 
-*Open question: land it with a line connecting to the Holy Pause, e.g. "the pause I skip in the car is the same pause I skip everywhere else."*
+I'm not so humble when it comes to someone else noticing when I'm not the best driver, sometimes in the same car trip.
+
+- Just like my mom was convicted when she heard me parrot her words,
+- Usually when I point out someone else's mistakes out loud, one of my kids will say: "Mom, you're not always safe, either."
+  - Following too close, checking your phone at the light, changing lanes a bit closer than you should.
+  - I don't like it that much.
+
+I'm perfectly happy noticing something I don't like in someone else.
+
+- I'm not pleased when someone else notices in me that which I don't like in others.
+
+Scientists have been studying this phenomenon for decades, because apparently I'm not the only person who struggles.
+
+- There's the better-than-average effect.
+  - 80-90% of people consider themselves better than average drivers, for example, statistically impossible.
+  - We often think we're better than others at routine acts.
+- There's the bias blind spot tendency.
+  - We readily see biases and errors in other people's judgment, while being almost completely unable to see those same biases in ourselves.
+- There's the actor-observer asymmetry.
+  - When someone else does something wrong, we attribute it to their character: "They're a reckless person!"
+  - When we do the same thing wrong, we attribute it to circumstance: "It's not me, it's just that traffic was bad!"
+
+Sound familiar? Where are you most likely to, or most tempted to, judge someone else?
+
+- Are you, like me, most tempted while driving in rush hour on I-270?
+- Or in the staff meeting at work? Or scrolling through social media? While viewing a political ad? Watching or reading the 24 hour news? Walking through your neighborhood?
 
 ## Still to develop
 
